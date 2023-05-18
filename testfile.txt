@@ -1,1 +1,6 @@
 Text is changed from test branch
+New line created
+asdasds
+
+a
+sdasdasd
